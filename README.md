@@ -1,2 +1,3 @@
 # devJuegos
-Repositorio de juegos en linea
+Repositorio de creacion de videojuegos
+
